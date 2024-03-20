@@ -1,4 +1,4 @@
-# Game Night Selector for Sorcery Society
+# Game Night Selector By Aleja Hale
 
 ## Overview
 
