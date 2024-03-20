@@ -78,5 +78,3 @@ second_night = find_best_night(second_night_availability)
 
 available_second_game_night = available_on_night(gamers,second_night)
 send_email(available_second_game_night, second_night, 'Catan')
-
-
